@@ -6,3 +6,9 @@ si funciona.
 
 otra vez por las dudas
 vamos a ver si ahora si?
+
+python es un lenguaje de programacion
+que permite la creacion de aplicaciones y juegos enriquecidos con gráficos 2D o 3D.
+es decir, tiene una gran capacidad para mostrar imagenes y animaciones.
+
+en este ejemplo vamos a hacer algo muy sencillo:
